@@ -1,5 +1,3 @@
-# Bmfy.Bo
-It's me! hahaha
 <div align="center">
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Bmfy.Bo&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=AI%20Agent%20Builder%20%C2%B7%20Cybersecurity%20%C2%B7%20CEHv13&descSize=18&descAlignY=58&animation=twinkling)
