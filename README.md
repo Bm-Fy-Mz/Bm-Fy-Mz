@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Bmfy.Bo&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=AI%20Agent%20Builder%20%C2%B7%20Cybersecurity%20%C2%B7%20CEHv13&descSize=18&descAlignY=58&animation=twinkling)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Bmfy.Bo&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=AI%20Agent%20Builder%20%C2%B7%20Cybersecurity%20%C2%B7%20Looking+for+Intern+Job&descSize=18&descAlignY=58&animation=twinkling)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=AI+Machine+Learning+%2B+Cybersecurity+%40+UMD+ACES;Building+multi-agent+systems+with+Google+ADK;LangChain+LangGraph+agentic+application;Certified+Ethical+Hacker+(CEHv13);NCL+Top+6%25+Nationally)](https://git.io/typing-svg)
 
