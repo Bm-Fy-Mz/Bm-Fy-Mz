@@ -16,7 +16,7 @@
 
 Computer Science student at the University of Maryland Honors College, majoring in AI/Machine Learning with a minor in Cybersecurity. I build secure, autonomous multi-agent systems — orchestrating supervisors, tools, and retrieval into pipelines that do real work instead of just demoing it. I learn ahead of the curve: certified before junior year, competing nationally, and shipping agent architectures with Google ADK, the OpenAI SDK, and Vertex AI.
 
-- Building — Supervisor-led multi-agent systems with Google ADK, MCP tool integration, agentic RAG, and self-correcting agent loops
+- Building — Supervisor-led multi-agent systems with Google ADK, LangChain, LangGraph, MCP tool integration, agentic RAG, and self-correcting agent loops
 - Certified — Certified Ethical Hacker v13 (EC-Council), Google Generative AI Leader, Claude Certified Architect – Foundations (in progress)
 - Competing — National Cyber League top 6% nationally, National Merit Scholarship Finalist (2024), FIRST Tech Challenge THINK & INSPIRE awards
 - Studying — B.S. Computer Science (AI/ML), Cybersecurity minor, ACES Honors program, GPA 4.0, expected May 2029
