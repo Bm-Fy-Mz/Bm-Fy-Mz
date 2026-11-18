@@ -14,9 +14,9 @@
 
 ## About Me
 
-Computer Science student at the University of Maryland Honors College, majoring in AI/Machine Learning with a minor in Cybersecurity. I build secure, autonomous multi-agent systems — orchestrating supervisors, tools, and retrieval into pipelines that do real work instead of just demoing it. I learn ahead of the curve: certified before junior year, competing nationally, and shipping agent architectures with Google ADK, the OpenAI SDK, and Vertex AI.
+Computer Science student at the University of Maryland Honors College, majoring in AI/Machine Learning with a minor in Cybersecurity. I build secure, autonomous multi-agent systems — orchestrating supervisors, tools, and retrieval into pipelines that do real work instead of just demoing it. I stay ahead of the curve: certified before junior year, competing nationally, and shipping agent architectures with Google ADK, the OpenAI SDK, LangChain, LangGraph and Vertex AI.
 
-- Building — Supervisor-led multi-agent systems with Google ADK, LangChain, LangGraph, MCP tool integration, agentic RAG, and self-correcting agent loops
+- Building — Building multi-agent systems with Google ADK, LangChain, LangGraph, MCP tool integration, agentic RAG, and self-correcting agent loops
 - Certified — Certified Ethical Hacker v13 (EC-Council), Google Generative AI Leader, Claude Certified Architect – Foundations (in progress)
 - Competing — National Cyber League top 6% nationally, National Merit Scholarship Finalist (2024), FIRST Tech Challenge THINK & INSPIRE awards
 - Studying — B.S. Computer Science (AI/ML), Cybersecurity minor, ACES Honors program, GPA 4.0, expected May 2029
@@ -29,44 +29,67 @@ Computer Science student at the University of Maryland Honors College, majoring 
 <tr>
 <td width="50%" valign="top">
 
-### Personal Knowledge-Base Wiki Agent
-**Google GEAR Program** · 2026 – Present
+### RAG Knowledge-Base Wiki Agent
+**Google GEAR Program** 
 
-A multi-agent knowledge system on Google ADK using a supervisor-led architecture, with specialized discovery, wiki-retrieval, and reporting agents automating data ingestion and document synthesis.
+A multi-agent RAG knowledge system on Google ADK using a hybrid retrieval architecture, featuring specialized discovery, wiki-grounding, and reporting agents that automating data ingestion, search/retrieval, reranking and document synthesis.
 
-`Google ADK` `Multi-Agent` `Agentic RAG`
+`Google ADK` `Multi-Agent` `Agentic RAG` `LLM wiki` `Vector embeding`
 
 </td>
 <td width="50%" valign="top">
 
 ### Autonomous Agent Pipelines
-**Agent Engineering** · 2026
+**Agent Engineering** 
 
-Multi-agent systems built on Google ADK and the OpenAI SDK, automating complex workflows through tool calling and MCP bridge integration, with retrieval grounding that measurably cut hallucination in research and reporting tasks.
+Multi-agent systems built on LangChain, LangGraph and the OpenAI SDK, automating complex workflows through tool calling and MCP bridge integration, with retrieval grounding that measurably cut hallucination in deep research and reporting tasks.
 
-`OpenAI SDK` `MCP` `Python`
+`LangChain LangGraph` `OpenAI SDK` `MCP` `Python`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### Daily Cybersecurity Challenge
+**Personal Project** 
+
+Developed an AI agent application and skill to automate the daily generation and email delivery of multiple-choice cybersecurity  interview questions-complete with explanations-to subscribers across 22 rotating security domains and five difficulty tiers to subscribers
+
+`Automation` `Security` `question bank` 
+
+</td>
+<td width="50%" valign="top">
+
+### SECURE IT WORKSHOP 2026 — Team Lead
+**UMD ACES Program** · 2026
+
+Selected as one of five team leaders for a cybersecurity summer camp; authored and prepared teaching curriculum, practice labs, and quizzes that introduces young students to the field.
+
+`Cybersecurity` `Curriculum` `workshop`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### Secure Workflow Automation
-**Personal Infrastructure** · 2026
+### LOCAL MODEL DEPLOYMENT & BENCHMARK
+**Personal Project** 
 
-Integrated automation workflows across Google ADK, AI Studio, and Gemini Enterprise, deploying Claude Cowork and OpenClaw as personal assistants and exploring security-aware autonomous execution pipelines.
+Deployed dense mode and MoE models using various inference engine (Ollama, llama.cpp, strata) across Unified RAM or RTX vRAM + PCIe RAM architecture;  benchmarked intellegence and TPS performance across multiple quantization variants  
 
-`Gemini Enterprise` `Automation` `Security`
+`Dense mode` `MoE` `Inference engine` `quantization` 
 
 </td>
 <td width="50%" valign="top">
 
-### SECURE IT 2026 — Team Lead
-**UMD ACES Program** · 2026
+### WEB INTERFACE FOR OPENCODE
+**Personal Program** 
 
-Selected as one of five team leaders for a cybersecurity summer camp; co-authoring and preparing to teach the curriculum that introduces young students to the field.
+Developed a portable web interface to manage and interact with OpenCode CLI, through the Opencode MCP
 
-`Cybersecurity` `Curriculum` `Leadership`
+`OpenCode` `web Interface` `MCP`
 
 </td>
 </tr>
