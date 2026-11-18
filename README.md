@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Bmfy.Bo&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=AI%20Agent%20Builder%20%C2%B7%20Cybersecurity%20%C2%B7%20CEHv13&descSize=18&descAlignY=58&animation=twinkling)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Building+multi-agent+systems+with+Google+ADK;LangChain+LangGraph+agentic+application;Certified+Ethical+Hacker+(CEHv13);NCL+Top+6%25+Nationally;CS+%2B+Cybersecurity+%40+UMD+ACES)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=AI+Machine+Learning+%2B+Cybersecurity+%40+UMD+ACES;Building+multi-agent+systems+with+Google+ADK;LangChain+LangGraph+agentic+application;Certified+Ethical+Hacker+(CEHv13);NCL+Top+6%25+Nationally)](https://git.io/typing-svg)
 
 [![Followers](https://img.shields.io/github/followers/Bm-Fy-Mz?style=flat-square&logo=github&label=Followers&color=blue)](https://github.com/Bm-Fy-Mz?tab=followers)
 [![Stars](https://img.shields.io/github/stars/Bm-Fy-Mz?affiliations=OWNER&style=flat-square&logo=github&label=Stars&color=yellow)](https://github.com/Bm-Fy-Mz?tab=repositories)
