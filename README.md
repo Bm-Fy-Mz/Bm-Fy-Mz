@@ -32,7 +32,7 @@ Computer Science student at the University of Maryland Honors College, majoring 
 ### RAG Knowledge-Base Wiki Agent
 **Google GEAR Program** 
 
-A multi-agent RAG knowledge system on Google ADK using a hybrid retrieval architecture, featuring specialized discovery, wiki-grounding, and reporting agents that automating data ingestion, search/retrieval, reranking and document synthesis.
+Developed a multi-agent RAG knowledge system using Google ADK and a hybrid retrieval architecture, with specialized sub-agents for discovery, ingestion, retrieval, reranking, wiki-grounding, and reporting to automate document synthesis and knowledge generation.
 
 `Google ADK` `Multi-Agent` `Agentic RAG` `LLM wiki` `Vector embeding`
 
